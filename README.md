@@ -1,4 +1,4 @@
 # Blackjack
-Blackjack written in Java.
+Single player blackjack written in Java.
 
 Run Driver.java to run the game.
